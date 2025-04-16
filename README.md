@@ -57,9 +57,9 @@ Ce projet vise à générer et classifier un jeu de données complet sur les cha
      - `champions_without_regions_in_description.json` (pour le dataset complet)
      - `champions_less_ionia_without_regions_in_description.json` (pour le dataset moins biaisé par Ionia)
 
-## Mode d’Emploi
+##Installation des dépendances
 
-1. **Installation**  
+1. **requirements.txt**  
    Installez les dépendances à l’aide du fichier `requirements.txt` :
    ```bash
    pip install -r requirements.txt
