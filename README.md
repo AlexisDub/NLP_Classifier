@@ -6,10 +6,11 @@ Ce projet vise à générer et classifier un jeu de données complet sur les cha
 
 - [Structure du Projet](#structure-du-projet)
 - [Mode d’Emploi](#mode-demploi)
-- [Scripts Principaux](#scripts-principaux)
+- [Génération du jeu de données](#génération-du-jeu-de-données)
+- [Classification NLP](#classification-nlp)
+- [Remplacement des noms de régions](#remplacement-des-noms-de-régions)
 - [Choix et Considérations](#choix-et-considérations)
-- [Installation des Dépendances](#installation-des-dépendances)
-- [Licence](#licence)
+- [Conclusion](#conclusion)
 
 ## Structure du Projet
 
