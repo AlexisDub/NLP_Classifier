@@ -5,12 +5,11 @@ Ce projet vise à générer et classifier un jeu de données complet sur les cha
 ## Table des matières
 
 - [Structure du Projet](#structure-du-projet)
-- [Installation des dépendances](#installation-des-dépendances)
-- [Génération du jeu de données](#génération-du-jeu-de-données)
-- [Classification NLP](#classification-nlp)
-- [Remplacement des noms de régions](#remplacement-des-noms-de-régions)
+- [Mode d’Emploi](#mode-demploi)
+- [Scripts Principaux](#scripts-principaux)
 - [Choix et Considérations](#choix-et-considérations)
-- [Conclusion](#conclusion)
+- [Installation des Dépendances](#installation-des-dépendances)
+- [Licence](#licence)
 
 ## Structure du Projet
 
@@ -58,7 +57,7 @@ Ce projet vise à générer et classifier un jeu de données complet sur les cha
      - `champions_without_regions_in_description.json` (pour le dataset complet)
      - `champions_less_ionia_without_regions_in_description.json` (pour le dataset moins biaisé par Ionia)
 
-##Installation des dépendances
+##Mode d’Emploi
 
 1. **requirements.txt**  
    Installez les dépendances à l’aide du fichier `requirements.txt` :
