@@ -1,0 +1,787 @@
+{
+    "Ahri": {
+        "Région": "Ionia",
+        "Rôle": "Mage",
+        "Race": "Vastaya"
+    },
+    "Akali": {
+        "Région": "Ionia",
+        "Rôle": "Assassin",
+        "Race": "Humain"
+    },
+    "Akshan": {
+        "Région": "Shurima",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Ambessa": {
+        "Région": "Piltover",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Amumu": {
+        "Région": "Shurima",
+        "Rôle": "Tank",
+        "Race": "Mort-vivant"
+    },
+    "Anivia": {
+        "Région": "Freljord",
+        "Rôle": "Mage",
+        "Race": "Esprit"
+    },
+    "Annie": {
+        "Région": "Noxus",
+        "Rôle": "Mage",
+        "Race": "Humain"
+    },
+    "Aphelios": {
+        "Région": "Targon",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Ashe": {
+        "Région": "Freljord",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Aurora": {
+        "Région": "Freljord",
+        "Rôle": "Mage",
+        "Race": "Vastaya"
+    },
+    "Azir": {
+        "Région": "Shurima",
+        "Rôle": "Mage",
+        "Race": "Ascendant"
+    },
+    "Belveth": {
+        "Région": "Void",
+        "Rôle": "Combattant",
+        "Race": "Créature du Néant"
+    },
+    "Blitzcrank": {
+        "Région": "Zaun",
+        "Rôle": "Tank",
+        "Race": "Golem mécanique"
+    },
+    "Brand": {
+        "Région": "Freljord",
+        "Rôle": "Mage",
+        "Race": "Humain modifié"
+    },
+    "Braum": {
+        "Région": "Freljord",
+        "Rôle": "Support",
+        "Race": "Humain"
+    },
+    "Briar": {
+        "Région": "Noxus",
+        "Rôle": "Combattant",
+        "Race": "Créature expérimentale"
+    },
+    "Caitlyn": {
+        "Région": "Piltover",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Camille": {
+        "Région": "Piltover",
+        "Rôle": "Combattant",
+        "Race": "Cyborg"
+    },
+    "Cassiopeia": {
+        "Région": "Noxus",
+        "Rôle": "Mage",
+        "Race": "Humain modifié"
+    },
+    "Chogath": {
+        "Région": "Void",
+        "Rôle": "Tank",
+        "Race": "Créature du Néant"
+    },
+    "Corki": {
+        "Région": "Bandle City",
+        "Rôle": "Tireur",
+        "Race": "Yordle"
+    },
+    "Darius": {
+        "Région": "Noxus",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Diana": {
+        "Région": "Targon",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "DrMundo": {
+        "Région": "Zaun",
+        "Rôle": "Tank",
+        "Race": "Mutant"
+    },
+    "Draven": {
+        "Région": "Noxus",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Ekko": {
+        "Région": "Zaun",
+        "Rôle": "Assassin",
+        "Race": "Humain"
+    },
+    "Elise": {
+        "Région": "Noxus",
+        "Rôle": "Mage",
+        "Race": "Humain modifié"
+    },
+    "Ezreal": {
+        "Région": "Piltover",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Fiora": {
+        "Région": "Demacia",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Fizz": {
+        "Région": "Bilgewater",
+        "Rôle": "Assassin",
+        "Race": "Yordle"
+    },
+    "Galio": {
+        "Région": "Demacia",
+        "Rôle": "Tank",
+        "Race": "Créature élémentaire"
+    },
+    "Gangplank": {
+        "Région": "Bilgewater",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Garen": {
+        "Région": "Demacia",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Gnar": {
+        "Région": "Freljord",
+        "Rôle": "Combattant",
+        "Race": "Yordle"
+    },
+    "Gragas": {
+        "Région": "Freljord",
+        "Rôle": "Tank",
+        "Race": "Humain"
+    },
+    "Graves": {
+        "Région": "Bilgewater",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Gwen": {
+        "Région": "Îles Obscures",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Hecarim": {
+        "Région": "Îles Obscures",
+        "Rôle": "Combattant",
+        "Race": "Spectre"
+    },
+    "Heimerdinger": {
+        "Région": "Piltover",
+        "Rôle": "Mage",
+        "Race": "Yordle"
+    },
+    "Hwei": {
+        "Région": "Ionia",
+        "Rôle": "Mage",
+        "Race": "Humain"
+    },
+    "Illaoi": {
+        "Région": "Bilgewater",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Irelia": {
+        "Région": "Ionia",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Ivern": {
+        "Région": "Ionia",
+        "Rôle": "Support",
+        "Race": "Vastaya"
+    },
+    "Janna": {
+        "Région": "Zaun",
+        "Rôle": "Support",
+        "Race": "Esprit"
+    },
+    "JarvanIV": {
+        "Région": "Demacia",
+        "Rôle": "Tank",
+        "Race": "Humain"
+    },
+    "Jax": {
+        "Région": "Icathia",
+        "Rôle": "Combattant",
+        "Race": "Humain modifié"
+    },
+    "Jayce": {
+        "Région": "Piltover",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Jhin": {
+        "Région": "Ionia",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Jinx": {
+        "Région": "Zaun",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "KSante": {
+        "Région": "Shurima",
+        "Rôle": "Tank",
+        "Race": "Humain"
+    },
+    "Kaisa": {
+        "Région": "Void",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Kalista": {
+        "Région": "Îles Obscures",
+        "Rôle": "Tireur",
+        "Race": "Spectre"
+    },
+    "Karma": {
+        "Région": "Ionia",
+        "Rôle": "Mage",
+        "Race": "Humain modifié"
+    },
+    "Karthus": {
+        "Région": "Îles Obscures",
+        "Rôle": "Mage",
+        "Race": "Spectre"
+    },
+    "Kassadin": {
+        "Région": "Void",
+        "Rôle": "Assassin",
+        "Race": "Humain modifié"
+    },
+    "Katarina": {
+        "Région": "Noxus",
+        "Rôle": "Assassin",
+        "Race": "Humain"
+    },
+    "Kayle": {
+        "Région": "Demacia",
+        "Rôle": "Combattant",
+        "Race": "Aspect"
+    },
+    "Kayn": {
+        "Région": "Ionia",
+        "Rôle": "Assassin",
+        "Race": "Humain"
+    },
+    "Kennen": {
+        "Région": "Ionia",
+        "Rôle": "Mage",
+        "Race": "Yordle"
+    },
+    "Khazix": {
+        "Région": "Void",
+        "Rôle": "Assassin",
+        "Race": "Créature du Néant"
+    },
+    "Kled": {
+        "Région": "Noxus",
+        "Rôle": "Combattant",
+        "Race": "Yordle"
+    },
+    "KogMaw": {
+        "Région": "Void",
+        "Rôle": "Tireur",
+        "Race": "Créature du Néant"
+    },
+    "Leblanc": {
+        "Région": "Noxus",
+        "Rôle": "Mage",
+        "Race": "Humain"
+    },
+    "LeeSin": {
+        "Région": "Ionia",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Leona": {
+        "Région": "Targon",
+        "Rôle": "Tank",
+        "Race": "Aspect"
+    },
+    "Lillia": {
+        "Région": "Ionia",
+        "Rôle": "Combattant",
+        "Race": "Esprit"
+    },
+    "Lissandra": {
+        "Région": "Freljord",
+        "Rôle": "Mage",
+        "Race": "Humain modifié"
+    },
+    "Lucian": {
+        "Région": "Demacia",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Lulu": {
+        "Région": "Bandle City",
+        "Rôle": "Support",
+        "Race": "Yordle"
+    },
+    "Lux": {
+        "Région": "Demacia",
+        "Rôle": "Mage",
+        "Race": "Humain"
+    },
+    "Malphite": {
+        "Région": "Ixtal",
+        "Rôle": "Tank",
+        "Race": "Créature élémentaire"
+    },
+    "Malzahar": {
+        "Région": "Void",
+        "Rôle": "Mage",
+        "Race": "Humain possédé"
+    },
+    "Maokai": {
+        "Région": "Îles Obscures",
+        "Rôle": "Tank",
+        "Race": "Esprit"
+    },
+    "MasterYi": {
+        "Région": "Ionia",
+        "Rôle": "Assassin",
+        "Race": "Humain"
+    },
+    "Mel": {
+        "Région": "Piltover",
+        "Rôle": "Support",
+        "Race": "Humain"
+    },
+    "Milio": {
+        "Région": "Ixtal",
+        "Rôle": "Support",
+        "Race": "Humain"
+    },
+    "MissFortune": {
+        "Région": "Bilgewater",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "MonkeyKing": {
+        "Région": "Ionia",
+        "Rôle": "Combattant",
+        "Race": "Vastaya"
+    },
+    "Mordekaiser": {
+        "Région": "Îles Obscures",
+        "Rôle": "Combattant",
+        "Race": "Spectre"
+    },
+    "Morgana": {
+        "Région": "Demacia",
+        "Rôle": "Mage",
+        "Race": "Aspect"
+    },
+    "Naafiri": {
+        "Région": "Shurima",
+        "Rôle": "Assassin",
+        "Race": "Darkin"
+    },
+    "Nasus": {
+        "Région": "Shurima",
+        "Rôle": "Combattant",
+        "Race": "Ascendant"
+    },
+    "Nautilus": {
+        "Région": "Bilgewater",
+        "Rôle": "Tank",
+        "Race": "Spectre"
+    },
+    "Neeko": {
+        "Région": "Ixtal",
+        "Rôle": "Mage",
+        "Race": "Vastaya"
+    },
+    "Nidalee": {
+        "Région": "Ixtal",
+        "Rôle": "Assassin",
+        "Race": "Humain modifié"
+    },
+    "Nilah": {
+        "Région": "Bilgewater",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Nunu": {
+        "Région": "Freljord",
+        "Rôle": "Tank",
+        "Race": "Humain"
+    },
+    "Olaf": {
+        "Région": "Freljord",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Orianna": {
+        "Région": "Piltover",
+        "Rôle": "Mage",
+        "Race": "Humain modifié"
+    },
+    "Ornn": {
+        "Région": "Freljord",
+        "Rôle": "Tank",
+        "Race": "Demi-dieu"
+    },
+    "Pantheon": {
+        "Région": "Targon",
+        "Rôle": "Combattant",
+        "Race": "Aspect"
+    },
+    "Poppy": {
+        "Région": "Demacia",
+        "Rôle": "Tank",
+        "Race": "Yordle"
+    },
+    "Pyke": {
+        "Région": "Bilgewater",
+        "Rôle": "Assassin",
+        "Race": "Spectre"
+    },
+    "Qiyana": {
+        "Région": "Ixtal",
+        "Rôle": "Assassin",
+        "Race": "Humain"
+    },
+    "Quinn": {
+        "Région": "Demacia",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Rakan": {
+        "Région": "Ionia",
+        "Rôle": "Support",
+        "Race": "Vastaya"
+    },
+    "Rammus": {
+        "Région": "Shurima",
+        "Rôle": "Tank",
+        "Race": "Créature magique"
+    },
+    "RekSai": {
+        "Région": "Void",
+        "Rôle": "Combattant",
+        "Race": "Créature du Néant"
+    },
+    "Rell": {
+        "Région": "Noxus",
+        "Rôle": "Tank",
+        "Race": "Humain"
+    },
+    "Renata": {
+        "Région": "Zaun",
+        "Rôle": "Support",
+        "Race": "Humain"
+    },
+    "Renekton": {
+        "Région": "Shurima",
+        "Rôle": "Combattant",
+        "Race": "Ascendant"
+    },
+    "Rengar": {
+        "Région": "Shurima",
+        "Rôle": "Assassin",
+        "Race": "Vastaya"
+    },
+    "Riven": {
+        "Région": "Noxus",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Rumble": {
+        "Région": "Bandle City",
+        "Rôle": "Mage",
+        "Race": "Yordle"
+    },
+    "Samira": {
+        "Région": "Noxus",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Sejuani": {
+        "Région": "Freljord",
+        "Rôle": "Tank",
+        "Race": "Humain"
+    },
+    "Senna": {
+        "Région": "Demacia",
+        "Rôle": "Tireur",
+        "Race": "Spectre"
+    },
+    "Seraphine": {
+        "Région": "Zaun",
+        "Rôle": "Support",
+        "Race": "Humain"
+    },
+    "Sett": {
+        "Région": "Ionia",
+        "Rôle": "Combattant",
+        "Race": "Vastaya"
+    },
+    "Shen": {
+        "Région": "Ionia",
+        "Rôle": "Tank",
+        "Race": "Humain"
+    },
+    "Shyvana": {
+        "Région": "Demacia",
+        "Rôle": "Combattant",
+        "Race": "Créature élémentaire"
+    },
+    "Singed": {
+        "Région": "Zaun",
+        "Rôle": "Tank",
+        "Race": "Humain"
+    },
+    "Sion": {
+        "Région": "Noxus",
+        "Rôle": "Tank",
+        "Race": "Mort-vivant"
+    },
+    "Sivir": {
+        "Région": "Shurima",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Skarner": {
+        "Région": "Shurima",
+        "Rôle": "Tank",
+        "Race": "Brackern"
+    },
+    "Sona": {
+        "Région": "Demacia",
+        "Rôle": "Support",
+        "Race": "Humain"
+    },
+    "Soraka": {
+        "Région": "Targon",
+        "Rôle": "Support",
+        "Race": "Créature céleste"
+    },
+    "Swain": {
+        "Région": "Noxus",
+        "Rôle": "Mage",
+        "Race": "Humain modifié"
+    },
+    "Sylas": {
+        "Région": "Demacia",
+        "Rôle": "Mage",
+        "Race": "Humain"
+    },
+    "Syndra": {
+        "Région": "Ionia",
+        "Rôle": "Mage",
+        "Race": "Humain"
+    },
+    "Taliyah": {
+        "Région": "Shurima",
+        "Rôle": "Mage",
+        "Race": "Humain"
+    },
+    "Talon": {
+        "Région": "Noxus",
+        "Rôle": "Assassin",
+        "Race": "Humain"
+    },
+    "Taric": {
+        "Région": "Targon",
+        "Rôle": "Support",
+        "Race": "Aspect"
+    },
+    "Teemo": {
+        "Région": "Bandle City",
+        "Rôle": "Tireur",
+        "Race": "Yordle"
+    },
+    "Thresh": {
+        "Région": "Îles Obscures",
+        "Rôle": "Support",
+        "Race": "Spectre"
+    },
+    "Tristana": {
+        "Région": "Bandle City",
+        "Rôle": "Tireur",
+        "Race": "Yordle"
+    },
+    "Trundle": {
+        "Région": "Freljord",
+        "Rôle": "Combattant",
+        "Race": "Mutant"
+    },
+    "Tryndamere": {
+        "Région": "Freljord",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "TwistedFate": {
+        "Région": "Bilgewater",
+        "Rôle": "Mage",
+        "Race": "Humain"
+    },
+    "Twitch": {
+        "Région": "Zaun",
+        "Rôle": "Tireur",
+        "Race": "Mutant"
+    },
+    "Udyr": {
+        "Région": "Freljord",
+        "Rôle": "Combattant",
+        "Race": "Chaman"
+    },
+    "Urgot": {
+        "Région": "Zaun",
+        "Rôle": "Combattant",
+        "Race": "Cyborg"
+    },
+    "Varus": {
+        "Région": "Ionia",
+        "Rôle": "Tireur",
+        "Race": "Darkin"
+    },
+    "Vayne": {
+        "Région": "Demacia",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Veigar": {
+        "Région": "Bandle City",
+        "Rôle": "Mage",
+        "Race": "Yordle"
+    },
+    "Velkoz": {
+        "Région": "Void",
+        "Rôle": "Mage",
+        "Race": "Créature du Néant"
+    },
+    "Vex": {
+        "Région": "Îles Obscures",
+        "Rôle": "Mage",
+        "Race": "Yordle"
+    },
+    "Vi": {
+        "Région": "Zaun",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Viego": {
+        "Région": "Îles Obscures",
+        "Rôle": "Assassin",
+        "Race": "Spectre"
+    },
+    "Viktor": {
+        "Région": "Zaun",
+        "Rôle": "Mage",
+        "Race": "Cyborg"
+    },
+    "Vladimir": {
+        "Région": "Noxus",
+        "Rôle": "Mage",
+        "Race": "Humain modifié"
+    },
+    "Volibear": {
+        "Région": "Freljord",
+        "Rôle": "Tank",
+        "Race": "Demi-dieu"
+    },
+    "Warwick": {
+        "Région": "Zaun",
+        "Rôle": "Combattant",
+        "Race": "Mutant"
+    },
+    "Xayah": {
+        "Région": "Ionia",
+        "Rôle": "Tireur",
+        "Race": "Vastaya"
+    },
+    "Xerath": {
+        "Région": "Shurima",
+        "Rôle": "Mage",
+        "Race": "Ascendant"
+    },
+    "XinZhao": {
+        "Région": "Demacia",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Yasuo": {
+        "Région": "Ionia",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Yone": {
+        "Région": "Ionia",
+        "Rôle": "Assassin",
+        "Race": "Esprit"
+    },
+    "Yorick": {
+        "Région": "Îles Obscures",
+        "Rôle": "Combattant",
+        "Race": "Humain"
+    },
+    "Yuumi": {
+        "Région": "Bandle City",
+        "Rôle": "Support",
+        "Race": "Créature élémentaire"
+    },
+    "Zac": {
+        "Région": "Zaun",
+        "Rôle": "Tank",
+        "Race": "Mutant"
+    },
+    "Zed": {
+        "Région": "Ionia",
+        "Rôle": "Assassin",
+        "Race": "Humain"
+    },
+    "Zeri": {
+        "Région": "Zaun",
+        "Rôle": "Tireur",
+        "Race": "Humain"
+    },
+    "Ziggs": {
+        "Région": "Zaun",
+        "Rôle": "Mage",
+        "Race": "Yordle"
+    },
+    "Zilean": {
+        "Région": "Icathia",
+        "Rôle": "Support",
+        "Race": "Humain"
+    },
+    "Zoe": {
+        "Région": "Targon",
+        "Rôle": "Mage",
+        "Race": "Aspect"
+    },
+    "Zyra": {
+        "Région": "Ixtal",
+        "Rôle": "Mage",
+        "Race": "Créature élémentaire"
+    }
+}
