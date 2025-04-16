@@ -1,4 +1,4 @@
-# Projet NLP sur les Champions de League of Legends
+# Projet NLP sur les Personnages de League of Legends
 
 Ce projet vise à générer et classifier un jeu de données complet sur les champions de League of Legends. Le pipeline s’appuie sur un fichier de template manuel contenant les informations essentielles (Région, Rôle, Race) pour chaque champion, qui est ensuite fusionné avec des données complémentaires extraites des fichiers JSON individuels des champions.
 
