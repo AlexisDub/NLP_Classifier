@@ -17,7 +17,7 @@ def remplacer_regions(texte):
     return re.sub(pattern, "[region]", texte)
 
 # Chargement du fichier JSON (par exemple "champions.json")
-with open("champions_dataset_nlp_ready.json", "r", encoding="utf-8") as f:
+with open("output/champions_dataset_nlp_ready.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 # Parcourir chaque champion et modifier le champ "Origine/Histoire clé"
